@@ -5,7 +5,7 @@
 
 .timer {
     margin: 40px 150px;
-    display: flex;
+    display: block;
     text-align: center;
     justify-content: space-between;
 }
